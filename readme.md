@@ -1,0 +1,1 @@
+writing dockerfile, nginx, ecs
